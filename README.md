@@ -1,7 +1,6 @@
 # Music Over — Lyrics Overlay
 
 ![скачиваний](https://img.shields.io/github/downloads/maks1237835-bit/Music_Over/total?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=8a63ff)
-![пользователей](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fabacus.jasoncameron.dev%2Fget%2Fmaks1237835-music-over%2Finstalls&query=%24.value&label=%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9&color=ff5aa5)
 ![версия](https://img.shields.io/github/v/release/maks1237835-bit/Music_Over?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=46dcff)
 
 Окно поверх всех окон с текстом песни, которая играет в приложениях
@@ -46,8 +45,8 @@
 
 Программа отправляет только анонимные счётчики: «+1 установка» (один раз),
 «+1 активен сегодня», «+1 активен в этот час». Никаких имён, треков, токенов
-и данных о компьютере. Отключается в настройках: Alt+8 → «Статистика».
-Там же видно, сколько всего пользователей и сколько сейчас слушают.
+и данных о компьютере. Отключается в настройках: Alt+8 → «Программа» →
+«Отправлять анонимную статистику».
 
 ## Удаление
 
